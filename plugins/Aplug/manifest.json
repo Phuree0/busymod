@@ -1,6 +1,6 @@
 {
-    "name": "A Test",
-    "description": "A plugin",
+    "name": "All Translate",
+    "description": "A plugin that translate all text in discord",
     "authors": [
         {
             "name": "Phureee",
@@ -9,6 +9,6 @@
     ],
     "main": "src/index.ts",
     "vendetta": {
-        "icon": "ic_badge_staff"
+        "icon": "ic_locale"
     }
 }
