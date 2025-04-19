@@ -1,4 +1,5 @@
 import { logger } from "@vendetta";
+import Setting from "./Setting"
 
 export default {
     onLoad: () => {
@@ -7,4 +8,5 @@ export default {
     onUnload: () => {
         logger.log("Goodbye, world.");
     },
+    settings: Setting
 };
