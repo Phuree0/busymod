@@ -9,4 +9,4 @@ export default {
         logger.log("Goodbye, world.");
     },
     settings: Settings,
-}
+};
