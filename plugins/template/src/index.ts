@@ -1,5 +1,14 @@
 import { logger } from "@vendetta";
-import Settings from "./Settings";
+import Settings from "./settings"
+
+export const settings: {
+    source_lang?: string // ???
+    target_lang?: string
+    translator?: number
+} = storage
+
+settings.target_lang ??= "en"
+settings.translator ??= 1
 
 export default {
     onLoad: () => {
