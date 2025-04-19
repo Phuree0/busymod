@@ -1,5 +1,5 @@
 import { logger } from "@vendetta";
-import Setting from "./Setting"
+import Setting from "./setting"
 
 export default {
     onLoad: () => {
