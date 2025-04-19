@@ -17,5 +17,5 @@ export default {
     onUnload: () => {
         logger.log("Goodbye, world.");
     },
-    settings: Settings,
+    settings: Settings
 };
