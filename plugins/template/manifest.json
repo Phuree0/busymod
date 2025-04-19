@@ -4,10 +4,10 @@
     "authors": [
         {
             "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "id": "1"
         }
     ],
-    "main": "/src/index.ts",
+    "main": "src/index.ts",
     "vendetta": {
         "icon": "ic_badge_staff"
     }
