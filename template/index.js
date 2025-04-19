@@ -1,1 +1,1 @@
-(function(o,e){"use strict";var l={onLoad:function(){e.logger.log("Hello world!")},onUnload:function(){e.logger.log("Goodbye, world.")}};return o.default=l,Object.defineProperty(o,"__esModule",{value:!0}),o})({},vendetta);
+(function(e,o,n){"use strict";const{FormText:t}=n.Forms;function l(){return React.createElement(t,null,"Hello, world!")}var r={onLoad:function(){o.logger.log("Hello world!")},onUnload:function(){o.logger.log("Goodbye, world.")},settings:l};return e.default=r,Object.defineProperty(e,"__esModule",{value:!0}),e})({},vendetta,vendetta.ui.components);
