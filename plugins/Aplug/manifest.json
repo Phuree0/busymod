@@ -1,0 +1,14 @@
+{
+    "name": "A Test",
+    "description": "A plugin",
+    "authors": [
+        {
+            "name": "Phureee",
+            "id": "1351409253381967983"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
